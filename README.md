@@ -1,2 +1,2 @@
 # siswa
-Database mysql untuk menyimpan data siswa: menghapus, menambah, mengupdate dan menghapus data
+Database mysql untuk menyimpan data siswa: menghapus, menambah, mengupdate dan mengedit data
